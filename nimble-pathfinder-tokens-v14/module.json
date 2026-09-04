@@ -1,10 +1,10 @@
 {
-  "id": "nimble-pathfinder-tokens",
-  "title": "Nimble - Pathfinder Tokens",
-  "version": "1.0",
+  "id": "nimble-pathfinder-tokens-v14",
+  "title": "Nimble - Pathfinder Tokens (v14 Fork)",
+  "version": "1.0.0",
   "compatibility": {
-    "minimum": "13",
-    "verified": "13"
+    "minimum": "14",
+    "verified": "14.365"
   },
   "authors": [
     {
@@ -12,13 +12,18 @@
       "email": "javierriveracastro@gmail.com",
       "discord": "javierrivera",
       "flags": {}
+    },
+    {
+      "name": "astra64",
+      "email": "jess@nodero.com",
+      "flags": {}
     }
   ],
   "flags": {
     "canUpload": true,
     "compendiumArtMappings": {
       "nimble": {
-        "mapping": "modules/nimble-pathfinder-tokens/module/map-bestiaries.json",
+        "mapping": "modules/nimble-pathfinder-tokens-v14/module/map-bestiaries.json",
         "credit": "<em>Portrait, token, and subject artwork from Pathfinder Tokens: Bestiaries.</em>"
       }
     },
@@ -26,7 +31,7 @@
       "modules/pf2e-tokens-bestiaries/tokens/": "modules/pf2e-tokens-bestiaries/subjects/"
     },
     "pf2e-tokens-bestiaries": {
-      "nimble-art": "modules/nimble-pathfinder-tokens/module/map-bestiaries.json"
+      "nimble-art": "modules/nimble-pathfinder-tokens-v14/module/map-bestiaries.json"
     }
   },
   "relationships": {
@@ -34,7 +39,9 @@
       {
         "id": "nimble",
         "type": "system",
-        "compatibility": {}
+        "compatibility": {
+          "minimum": "0.9.0"
+        }
       },
       {
         "id": "pf2e-tokens-bestiaries",
@@ -43,6 +50,6 @@
       }
     ]
   },
-  "manifest": "https://github.com/javierriveracastro/nimble-pathfinder-tokens/releases/download/latest/module.json",
-  "download": "https://github.com/javierriveracastro/nimble-pathfinder-tokens/releases/download/latest/nimble-pathfinder-tokens.zip"
+  "manifest": "https://github.com/astra64/nimble-pathfinder-tokens-v14/releases/download/latest/module.json",
+  "download": "https://github.com/astra64/nimble-pathfinder-tokens-v14/releases/download/latest/nimble-pathfinder-tokens-v14.zip"
 }
