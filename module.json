@@ -1,7 +1,7 @@
 {
   "id": "nimble-pathfinder-tokens-v14",
   "title": "Nimble - Pathfinder Tokens (v14 Fork)",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "compatibility": {
     "minimum": "14",
     "verified": "14.365"
@@ -47,6 +47,14 @@
         "id": "pf2e-tokens-bestiaries",
         "type": "module",
         "compatibility": {}
+      }
+    ],
+    "recommends": [
+      {
+        "id": "pf2e-tokens-characters",
+        "type": "module",
+        "compatibility": {},
+        "reason": "Supplies the human-NPC portraits used for the Bandit variant monster mappings."
       }
     ]
   },

@@ -217,18 +217,18 @@
       }
     },
     "BaDPPV34vXQEle95": {
-      "actor": "modules/pf2e-tokens-bestiaries/portraits/undead/zombie-brute.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/gnoll-hunter.webp",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/pf2e-tokens-bestiaries/tokens/undead/zombie-brute.webp",
+          "src": "modules/pf2e-tokens-bestiaries/tokens/humanoid/gnoll-hunter.webp",
           "scaleX": 1,
           "scaleY": 1
         },
         "ring": {
           "enabled": true,
           "subject": {
-            "texture": "modules/pf2e-tokens-bestiaries/subjects/undead/zombie-brute.webp",
+            "texture": "modules/pf2e-tokens-bestiaries/subjects/humanoid/gnoll-hunter.webp",
             "scale": 1
           }
         }
@@ -1057,6 +1057,348 @@
           "enabled": true,
           "subject": {
             "texture": "modules/pf2e-tokens-bestiaries/subjects/aberrant/humanoid/sinspawn-wrath.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "Fh0VprW8Tnc2anU7": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/slug-giant.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/slug-giant.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-bestiaries/subjects/bestial/invertebrate/slug-giant.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "2WAfywOh2jWhIlVy": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/plant/flytrap-giant.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/plant/flytrap-giant.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-bestiaries/subjects/plant/flytrap-giant.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "QiXaRObRw5xxE1VT": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/demon/succubus.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/fiendish/demon/succubus.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-bestiaries/subjects/fiendish/demon/succubus.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "xx6ELqMvhFA8qVfN": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/rat-swarm.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/rat-swarm.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-bestiaries/subjects/bestial/mammalian/rat-swarm.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "61FWYH8AiVq2gD9R": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/goblinoid/hobgoblin-archer.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/humanoid/goblinoid/hobgoblin-archer.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-bestiaries/subjects/humanoid/goblinoid/hobgoblin-archer.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "SM6NlZaQdKqFN2AD": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/goblinoid/goblin-dog.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/humanoid/goblinoid/goblin-dog.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-bestiaries/subjects/humanoid/goblinoid/goblin-dog.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "XQOBiTP8L3Yac9Up": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/rat-giant.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/rat-giant.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-bestiaries/subjects/bestial/mammalian/rat-giant.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "7f3ZENlslRDMVcEf": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/constructed/golem/clay-golem.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/constructed/golem/clay-golem.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-bestiaries/subjects/constructed/golem/clay-golem.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "r9NnB02qiXpLFrcP": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-bandit-human.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-bandit-human.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-bandit-human.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "9WKy1tqSaiffgo3r": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-assassin.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-assassin.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-assassin.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "b4xQqvIabCUfsJDT": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-monster-hunter.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-monster-hunter.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-monster-hunter.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "dteeb6x2NSNbgvqS": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/human-mercenary.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/human-mercenary.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/human-mercenary.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "ZlCEjSKWexX3OOYz": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-bounty-hunter.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-bounty-hunter.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-bounty-hunter.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "DO4C8oN9LxSqK6XG": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-adept.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-adept.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-adept.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "FOQD0sLrhJiSM9sK": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-ruffian.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-ruffian.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-ruffian.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "8cTXSC0sZZFE5Vbg": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/osprey-cultist.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/osprey-cultist.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/osprey-cultist.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "WJ24grmX4bHyHcHc": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-elven-ranger.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-elven-ranger.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-elven-ranger.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "WJikH84pVBBYkwh0": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-cultist-human.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-cultist-human.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-cultist-human.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "AH1S3PuQDAlqGd9x": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/kobold-trapsmith.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/kobold-trapsmith.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/kobold-trapsmith.webp",
             "scale": 1
           }
         }
